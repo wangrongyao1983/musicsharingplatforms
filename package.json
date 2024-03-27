@@ -1,0 +1,34 @@
+{
+  "name": "musicsharingplatforms",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "coin_scan_binance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangrongyao1983/musicsharingplatforms"
+  },
+  "website": "https://github.com/wangrongyao1983/musicsharingplatforms.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "wangrongyao1983",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangrongyao1983/musicsharingplatforms/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/wangrongyao1983/musicsharingplatforms#readme",
+  "dependencies": {
+    "forumwebsitess": "1.0.2",
+    "baycmonkey": "1.0.2"
+  }
+}
