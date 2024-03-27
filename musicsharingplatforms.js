@@ -1,5 +1,5 @@
-import { axiosConfig } from '@forumwebsitess/proxy';
-import { sleep } from '@forumwebsitess/sleep';
+import { axiosConfig } from '@musicsharingplatforms/proxy';
+import { sleep } from '@musicsharingplatforms/sleep';
 
 // forum_website.js
 
